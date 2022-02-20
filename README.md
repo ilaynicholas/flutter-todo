@@ -1,6 +1,6 @@
 # to_do
 
-A new Flutter project.
+To-do mobiel app made with Flutter. Tutorial by TVAC Studio.
 
 ## Getting Started
 
