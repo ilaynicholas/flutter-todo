@@ -1,6 +1,6 @@
 # to_do
 
-To-do mobiel app made with Flutter. Tutorial by TVAC Studio.
+To-do mobile app made with Flutter. Tutorial by TVAC Studio.
 
 ## Getting Started
 
